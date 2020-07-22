@@ -1,4 +1,4 @@
-# Ứng dụng từ bài: Đối tượng Intent trong Android phần 3
+# Ứng dụng từ bài: <a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-3/">Đối tượng Intent trong Android Phần 3</a>
 
 Một số bài khác:
 ***
